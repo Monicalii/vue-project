@@ -2,6 +2,7 @@
   <div id="app">
   <div class="router-link">
       <router-link to="/shoppingCart">购物车</router-link>
+      <router-link to="/address">地址列表</router-link>
     </div>
     <router-view></router-view>
   </div>
